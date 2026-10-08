@@ -1,0 +1,16 @@
+account,csm,renewal_date,adoption_trend,last_engagement,open_escalation,next_action,action_due_date
+Acme Demo,Maria,2026-11-22,Declining,2026-09-20,No,Agree adoption recovery plan,2026-10-05
+Blue River Demo,Maria,2027-03-27,Stable,2026-10-01,No,Schedule business review,2026-10-15
+Cedar Demo,Maria,2026-10-30,Growing,2026-10-03,Yes,Review escalation with support,2026-10-10
+Delta Demo,Maria,2026-12-07,Stable,2026-08-25,No,Reconnect with customer sponsor,2026-10-06
+Elm Demo,Maria,2027-02-15,Unknown,,No,,
+Falcon Demo,David,2026-10-28,Declining,2026-09-10,Yes,Confirm recovery plan,2026-10-07
+Granite Demo,David,2027-07-01,Growing,2026-10-06,No,Deliver product training,2026-10-20
+Harbor Demo,David,2026-12-01,Stable,2026-09-15,No,Start renewal discussion,2026-10-12
+Iris Demo,David,2026-12-31,Declining,2026-10-01,No,Review adoption barriers,2026-10-14
+Juniper Demo,David,2026-10-15,Stable,2026-10-04,No,Confirm renewal decision,2026-10-09
+Kestrel Demo,Elena,2027-04-01,Stable,2026-10-02,No,Schedule business review,2026-10-20
+Lumen Demo,Elena,2026-11-10,Declining,2026-09-01,No,Arrange adoption workshop,2026-10-06
+Maple Demo,Elena,,Growing,2026-10-05,No,Confirm renewal date,2026-10-12
+Northstar Demo,Elena,2026-10-18,Stable,2026-10-01,Yes,Confirm escalation recovery timeline,2026-10-09
+Orbit Demo,Elena,2027-02-01,Growing,2026-10-07,No,Deliver product training,2026-10-16
