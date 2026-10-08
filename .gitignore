@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+portfolio_notes.db
+portfolio_notes.db-*
 __pycache__/
 *.py[codz]
 *$py.class
